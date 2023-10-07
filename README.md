@@ -1,4 +1,4 @@
-****Webify is a web3 mutual investment platform which allows curators from around the world to create several investment schemes and investors to onvest in them. Funds can be drawn systematically by the end of time period. The concept minimizes third party intervention, increases transparency and allows a global platform to the curators. ****
+****Webify is a web3 mutual investment platform which allows curators from around the world to create several investment schemes and investors to invest in them. Funds can be drawn systematically by the end of time period. The concept minimizes third party intervention, increases transparency and allows a global platform to the curators. ****
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ If you want to release a version of your contracts publicly, you can use one of 
 
 ```bash
 npm run release
-****Do support the project if you like it. Any feedback will be highly appreciated!!!****![Screenshot (31)](https://github.com/Rimeeeeee/webify/assets/117741714/fa1ee2da-23d3-45a6-b977-d62dacbeea2b)
+
 
 # or
 yarn release
@@ -49,3 +49,4 @@ yarn release
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+****Do support the project if you like it. Any feedback will be highly appreciated!!!****![Screenshot (31)](https://github.com/Rimeeeeee/webify/assets/117741714/4eb86f9d-ba81-478e-bc05-8b076eb55e0f)
